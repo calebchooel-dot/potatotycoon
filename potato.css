@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.window {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+#potatoImage {
+    width: 67%;
+    margin-top: 20px;
+}
+
+#stats {
+    background-color: lightgray;
+    padding: 1px;
+    margin: 10px;
+}
+
+.upgrade {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
