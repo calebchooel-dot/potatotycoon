@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background: linear-gradient(110deg, yellow, rgb(231, 198, 91));
 }
 
 .window {
